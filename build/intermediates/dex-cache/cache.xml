@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\pre-dexed\debug\classes-80b4e6a385ce6a47eba7226cbd464bd7609b92e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\nhongoc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-6da041054ffd68188e404dbfe7de6e1b438dc391.jar" />
+    </item>
+    <item
+        jar="C:\Users\nhongoc\StudioProjects\JavaLearning\app\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="04b23f428af24a3b67bb50f584349e24d39c775a">
+        <dex dex="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\pre-dexed\debug\volley-254cf6cb2a35b6ec25b0169640e0d738c5d26218.jar" />
+    </item>
+    <item
+        jar="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\pre-dexed\debug\classes-e834658ddba1150eb14a6efda337e1537432243d.jar" />
+    </item>
+    <item
+        jar="C:\Users\nhongoc\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\pre-dexed\debug\gson-2.3.1-8b1ca687fff24fd61e12456eb726505cb4a8a21b.jar" />
+    </item>
+    <item
+        jar="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\pre-dexed\debug\classes-7613cd46296cab6328f2d76088260bcad2c75801.jar" />
+    </item>
+    <item
+        jar="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\nhongoc\StudioProjects\JavaLearning\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3513e6e87ea9859898db6884c052196e5c9b9ae3.jar" />
+    </item>
+
+</items>
